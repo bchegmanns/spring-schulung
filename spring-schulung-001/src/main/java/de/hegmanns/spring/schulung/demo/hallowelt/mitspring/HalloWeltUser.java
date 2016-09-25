@@ -4,6 +4,9 @@ import javax.annotation.processing.Messager;
 
 import de.hegmanns.spring.schulung.demo.hallowelt.ohnespring.extended.MessageRenderer;
 
+/**
+HalloWeltUser in No-Spring-Style
+*/
 public class HalloWeltUser {
 
 	private MessageRenderer messageRenderer;
